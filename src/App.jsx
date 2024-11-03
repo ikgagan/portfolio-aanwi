@@ -115,7 +115,7 @@ window.addEventListener('scroll', scrollActive)
       </section>
       {/* <!--===== FOOTER =====--> */}
     <footer class="footer" id="contact">
-      <p class="footer__title">Marlon</p>
+      <p class="footer__title">Aanwi</p>
       <div class="footer__social">
         <a href="#" class="footer__icon"><i class="bx bxl-facebook"></i></a>
         <a href="#" class="footer__icon"><i class="bx bxl-instagram"></i></a>
